@@ -1155,7 +1155,7 @@
     <edge source="370679458" target="3428641962" id="0">
       <data key="d7">[335756100, 170594046]</data>
       <data key="d8">Holterweg</data>
-      <data key="d9">['cycleway', 'residential']</data>
+      <data key="d9">['residential', 'cycleway']</data>
       <data key="d10">50</data>
       <data key="d11">False</data>
       <data key="d12">97.02799999999999</data>
@@ -1906,7 +1906,7 @@
     <edge source="3428641962" target="370679458" id="0">
       <data key="d7">[335756100, 170594046]</data>
       <data key="d8">Holterweg</data>
-      <data key="d9">['cycleway', 'residential']</data>
+      <data key="d9">['residential', 'cycleway']</data>
       <data key="d11">False</data>
       <data key="d12">97.02799999999999</data>
       <data key="d10">50</data>
@@ -2160,8 +2160,8 @@
       <data key="d11">False</data>
       <data key="d12">49.131</data>
     </edge>
-    <data key="d0">2021-10-21 15:14:21</data>
-    <data key="d1">OSMnx 1.1.1</data>
+    <data key="d0">2021-12-06 13:55:59</data>
+    <data key="d1">OSMnx 1.1.2</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>
   </graph>
