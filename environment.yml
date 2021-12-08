@@ -1,4 +1,4 @@
-name: notebooks
+name: os
 channels:
   - conda-forge
 dependencies:
